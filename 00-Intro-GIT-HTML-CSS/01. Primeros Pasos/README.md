@@ -5,7 +5,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        BASTANTE PRACTIA, MUY INTERESANTE Y EXPLICATICA, ES MEJOR VER LAS CLASES Y AL MISMO TIEMPO SEGUIR LOS PASOS PARA ENTENDER UN POCO MAS =).
+        BASTANTE PRACTIA, MUY INTERESANTE Y EXPLICATIVA, ES MEJOR VER LAS CLASES Y AL MISMO TIEMPO SEGUIR LOS PASOS PARA ENTENDER UN POCO MAS =).
       </a>
     </td>
   </tr>
